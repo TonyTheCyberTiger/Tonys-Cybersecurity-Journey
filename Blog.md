@@ -1,7 +1,7 @@
 # Tonys-Cybersecurity-Journey
 My journey from Navy Intel to Cybersecurity
 # From Navy Intel to Cybersecurity: Why I’m Making the Jump
-
+June 16, 2025
 After serving 7 years in the U.S. Navy as an Intelligence Specialist—and with 4 years left until I transition out in April 2029—I’ve decided to take a different path after military life: cybersecurity.
 
 Originally, I earned my Bachelor’s degree in Criminal Justice from Liberty University with the idea that I might pursue law enforcement after the Navy. But over time, that path didn’t feel like the right fit. I also considered becoming a naval officer, but that didn’t align with my long-term goals either.
